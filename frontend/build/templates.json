@@ -1,0 +1,50 @@
+[
+  {
+    "id": "google.png",
+    "name": "google"
+  },
+  {
+    "id": "setting.png",
+    "name": "setting"
+  },
+  {
+    "id": "phone.png",
+    "name": "phone"
+  },
+  {
+    "id": "play.png",
+    "name": "play"
+  },
+  {
+    "id": "user.png",
+    "name": "user"
+  },
+  {
+    "id": "submit.png",
+    "name": "submit"
+  },
+  {
+    "id": "pw.png",
+    "name": "pw"
+  },
+  {
+    "id": "login.png",
+    "name": "login"
+  },
+  {
+    "id": "starhunter.png",
+    "name": "starhunter"
+  },
+  {
+    "id": "plane.png",
+    "name": "plane"
+  },
+  {
+    "id": "chrome.png",
+    "name": "chrome"
+  },
+  {
+    "id": "man.png",
+    "name": "man"
+  }
+]
